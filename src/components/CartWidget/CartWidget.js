@@ -8,6 +8,6 @@ const CardWidget = () => {
             <span>0</span>
         </div>
     );
-};
+};   
 
 export default CardWidget;

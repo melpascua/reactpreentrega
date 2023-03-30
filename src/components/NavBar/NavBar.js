@@ -13,7 +13,7 @@ const NavBar = () => {
                 </div>
             </div>
             <CardWidget className= "card-widget" />
-        </nav>
+        </nav>  
     );
 };
 
