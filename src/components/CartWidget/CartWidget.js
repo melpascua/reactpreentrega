@@ -7,7 +7,7 @@ const CardWidget = () => {
             <img src= {carrito} alt="icono-carrito" />
             <span>0</span>
         </div>
-    );
+    );  
 };   
 
 export default CardWidget;
